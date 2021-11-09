@@ -13,7 +13,7 @@ For understanding Deep Reinforcement Learning, you need to first understand the 
 3. [Lecture 3: Policy Evaluation, Value Iteration, Policy Iteration, Policy Improvement (with example)](https://youtu.be/pj3CGYUahB8)
 4. [Lecture 4: Deep Q-Learning with Experience Replay](https://youtu.be/1BdbduBGVSE)
 
-**Foundations of Deep RL **
+**Foundations of Deep RL** by _Dr. Pieter Abbeel_
 
 1. [L1 MDPs, Exact Solution Methods, Max-ent RL](https://youtu.be/2GwBez0D20A)
 2. [L2 Deep Q-Learning](https://youtu.be/Psrhxy88zww)
