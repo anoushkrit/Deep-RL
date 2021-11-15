@@ -23,6 +23,9 @@ For understanding Deep Reinforcement Learning, you need to first understand the 
 6. [L6 Model-based RL](https://youtu.be/2o1yrkbpcUk)
 
 
+However, books are considered to be boring, but this book will give you a very well explained in-depth review of Deep Reinforcement Learning namely [**Deep Reinforcement Learning in Python**](https://www.amazon.in/Deep-Reinforcement-Learning-Python-distributional/dp/1839210680)
+
+
 
 
 
